@@ -2,7 +2,7 @@
 
 * **Institución:** Universidad Nacional del Oeste
 * **Materia:** Ingeniería de Software III
-* **Integrantes:** Benites Milagros, Cisneros Ian, Kobylnic Fernando, Leone Nicolás.
+* **Integrantes:** Benites Milagros, Cisneros Ian, Kobylnik Fernando, Leone Nicolás.
 * **Año:** 2026
 
 ## Índice de Términos
