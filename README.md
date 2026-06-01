@@ -8,6 +8,7 @@
 ## Índice de Términos
 ### Gestión de Configuración (GCS)
 * [Planeamiento de la GCS](./gcs/planeamiento.md)
+* [Gestión del Proceso de Configuración](./gcs/gestion_del_proceso.md)
 
 ### Modelo de Proceso (Scrumban)
 * [Backlog (Pila de producto)](./proceso/backlog.md)
