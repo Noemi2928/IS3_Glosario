@@ -2,11 +2,13 @@
 
 * **Institución:** Universidad Nacional del Oeste
 * **Materia:** Ingeniería de Software III
-* **Integrantes:** Benites Milagros, Cisneros Ian, Kobylnik Fernando, Leone Nicolás.
+* **Docente:** Hadad Graciela
+* **Integrantes:** Benites Milagros, Cisneros Ian, Kobylnik Fernando, Leone Nicolás
 * **Año:** 2026
 
 ## Índice de Términos
 ### Gestión de Configuración (GCS)
+* [Ítem de Configuración](./gcs/item-de-configuracion.md)
 * [Planeamiento de la GCS](./gcs/planeamiento.md)
 * [Gestión del Proceso de Configuración](./gcs/gestion_del_proceso.md)
 * [Identificación de la Configuración](./gcs/identificacion-de-la-configuracion.md)
@@ -18,4 +20,5 @@
 * [Control de Interfaces](./gcs/control-de-interfaces.md)
 
 ### Modelo de Proceso (Scrumban)
+* Scrumban
 * [Backlog (Pila de producto)](./proceso/backlog.md)
