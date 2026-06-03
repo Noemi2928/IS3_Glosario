@@ -20,6 +20,7 @@
 * [Identificación de la Configuración](./gcs/identificacion-de-la-configuracion.md)
 * [Control del Cambio en la Configuración](./gcs/control-de-cambios-de-configuracion.md)
     * [Solicitud de Cambio](./gcs/solicitud-de-cambio.md)
+    * [Orden de Cambio](./gcs/orden-de-cambio.md) `[Completar]`
     * [Comité de Control de Cambios](./gcs/comite-de-control-de-cambio.md)
 * [Contabilidad del Estado de Configuración](./gcs/contabilidad-del-estado-de-configuracion.md)
 * [Auditoría de Configuración](./gcs/auditoria-de-configuracion.md)
@@ -29,4 +30,14 @@
 
 ### 📍 Modelo de Proceso (Scrumban)
 * [Scrumban](./proceso/scrumban.md)
-* [Backlog (Pila de producto)](./proceso/backlog.md)
+    * [Scrum](./proceso/scrum.md)
+    * [Kanban](./proceso/kanban.md)
+* [Product Owner](./proceso/product-owner.md)
+* [Sprint Planning](./proceso/sprint-planning.md) `[Completar]`
+* [Daily Scrum](./proceso/daily-scrum.md) `[Completar]`
+* [Sprint Review](./proceso/sprint-review.md) `[Completar]`
+* [Sprint Retrospective](./proceso/sprint-retrospective.md) `[Completar]`
+* [Backlog](./proceso/backlog.md)
+* [Tablero de trabajo](./proceso/tablero-de-trabajo.md)
+* [Historia de usuario](./proceso/historia-de-usuario.md) `[Completar]`
+* [Límites WIP](./proceso/limites-wip.md) `[Completar]`
