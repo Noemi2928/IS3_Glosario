@@ -33,11 +33,11 @@
     * [Scrum](./proceso/scrum.md)
     * [Kanban](./proceso/kanban.md)
 * [Product Owner](./proceso/product-owner.md)
-* [Sprint Planning](./proceso/sprint-planning.md) `[Completar]`
-* [Daily Scrum](./proceso/daily-scrum.md) `[Completar]`
-* [Sprint Review](./proceso/sprint-review.md) `[Completar]`
-* [Sprint Retrospective](./proceso/sprint-retrospective.md) `[Completar]`
+* [Sprint Planning](./proceso/sprint-planning.md) 
+* [Daily Scrum](./proceso/daily-scrum.md) 
+* [Sprint Review](./proceso/sprint-review.md) 
+* [Sprint Retrospective](./proceso/sprint-retrospective.md) 
 * [Backlog](./proceso/backlog.md)
 * [Tablero de trabajo](./proceso/tablero-de-trabajo.md)
-* [Historia de usuario](./proceso/historia-de-usuario.md) `[Completar]`
-* [Límites WIP](./proceso/limites-wip.md) `[Completar]`
+* [Historia de usuario](./proceso/historia-de-usuario.md) 
+* [Límites WIP](./proceso/limites-wip.md) 
