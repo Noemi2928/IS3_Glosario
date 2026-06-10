@@ -17,6 +17,7 @@
     * [Liberación (Release)](./gcs/liberacion.md)
 * [Planeamiento de la GCS](./gcs/planeamiento-de-la-gcs.md)
     * [Plan de GCS](./gcs/plan-de-gcs.md)
+    * [Base de Datos de Configuración](./gcs/bdc.md)
 * [Gestión del Proceso de Configuración](./gcs/gestion_del_proceso.md)
 * [Identificación de la Configuración](./gcs/identificacion-de-la-configuracion.md)
 * [Control del Cambio en la Configuración](./gcs/control-de-cambios-de-configuracion.md)
