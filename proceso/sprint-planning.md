@@ -1,0 +1,1 @@
+La planificación del sprint (o Sprint Planning) es el evento colaborativo que da inicio a cada sprint en la metodología Scrum. Su objetivo principal es definir qué trabajo se entregará en el próximo ciclo y cómo se llevará a cabo
